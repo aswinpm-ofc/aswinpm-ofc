@@ -24,7 +24,7 @@ I'm a developer and creative enthusiast who likes combining **technology, design
 
 I work across **full-stack development, machine learning research, AI & data science, and computational linguistics**, and I enjoy the parts of a project that often get overlooked: debugging the strange issue at 2 AM, finding problems in a data pipeline, experimenting with a model, or adding that final layer of polish to a UI.
 
-Right now I'm exploring **AI/ML research**, building software projects, and working on a campus-wide **College Union platform** with a student team.
+Right now I'm exploring **AI/ML research**, building software projects
 
 <br>
 
