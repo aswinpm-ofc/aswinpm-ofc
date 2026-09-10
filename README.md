@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:F2A65A&height=200&section=header&text=Hi, I'm Mishiha&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn" alt="header banner" />
+<p align="center"> <img src="./assets/ascii-cyber-portal.gif" width="100%"> </p>
+
 
 **Aswin P M** — Integrated MSc CS (AI & Data Science) @ DCS-CUSAT
 
@@ -12,10 +13,13 @@
 
 <br>
 
-## 👨‍💻 About Me
+👨‍💻 About Me
 
-I'm a developer and creative enthusiast who likes combining technology, design, and problem-solving — from mapping Kerala's chai stalls to modeling how drugs bind to proteins. I work across full-stack development, machine learning research, and computational linguistics, and I like the parts of a project most people skip: the CDN bug at 2am, the leaked test set, the last 5% of polish on a UI.
+I'm a developer and creative enthusiast who enjoys combining technology, design, and problem-solving to build things that are useful, interesting, and visually engaging.
 
+I work across software development, web development, programming, data, and digital content creation. I enjoy experimenting with new technologies, turning ideas into working projects, and continuously improving my skills.
+
+Whether I'm writing code, designing something, editing content, or exploring a new idea, I like to create, experiment, learn, and build
 
 
 <br>
