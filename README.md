@@ -1,4 +1,5 @@
-<p align="center"> <img src="./assets/ascii-rocket-launch.gif" width="100%"> </p>
+<p align="center"> <img src="./assets/ascii-cyber-portal.gif" width="100%"> </p>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.a.swin._) 
 
