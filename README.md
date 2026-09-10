@@ -16,7 +16,7 @@
 
 I'm a developer and creative enthusiast who likes combining technology, design, and problem-solving — from mapping Kerala's chai stalls to modeling how drugs bind to proteins. I work across full-stack development, machine learning research, and computational linguistics, and I like the parts of a project most people skip: the CDN bug at 2am, the leaked test set, the last 5% of polish on a UI.
 
-Right now I'm deep in **HIPM_DTA**, a drug–target affinity research project, alongside a campus-wide **College Union platform** built with a student team.
+
 
 <br>
 
