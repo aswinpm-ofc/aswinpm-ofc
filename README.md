@@ -1,4 +1,4 @@
-
+<p align="center"> <img src="./assets/ascii-rocket-launch.gif" width="100%"> </p>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.a.swin._) 
 
@@ -9,7 +9,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aswinpm-ofc&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aswinpm-ofc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<p align="center"> <img src="https://visitcount.itsvg.in/api?id=aswinpm-ofc&icon=0&color=0" alt="Profile Views"> </p>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=aswinpm-ofc&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<
