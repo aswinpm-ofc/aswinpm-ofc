@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:F2A65A&height=200&section=header&text=Hi,%20I'm%20Aswin&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn" alt="Header Banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:4DA6FF&height=200&section=header&text=Hi,%20I'm%20Aswin&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn" alt="Header Banner"/>
 
 <p>
   <img src="./assets/ascii-cyber-portal.gif" width="100%" alt="ASCII Cyber Animation"/>
