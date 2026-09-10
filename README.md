@@ -1,11 +1,12 @@
 <div align="center">
 
-# Hi, I'm Mishiha 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:F2A65A&height=200&section=header&text=Hi, I'm Mishiha&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn" alt="header banner" />
+
 **Aswin P M** — Integrated MSc CS (AI & Data Science) @ DCS-CUSAT
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=2500&pause=700&color=F2A65A&center=true&vCenter=true&width=440&lines=Developer;Creator;Learner;Explorer)](https://github.com/aswinpm-ofc)
 
-*Code • Create • Experiment • Improve*
+*Code • Create • Experiment • Improve* 👋
 
 </div>
 
@@ -26,7 +27,6 @@ Right now I'm deep in **HIPM_DTA**, a drug–target affinity research project, a
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-<p align="center"><sub>swap in your real LinkedIn + email above ☝️</sub></p>
 
 <br>
 
