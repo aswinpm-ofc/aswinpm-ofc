@@ -166,7 +166,7 @@ I like pushing pixels and waveforms directly instead of only through a framework
 ## 🧠 Currently Learning
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2200&pause=700&color=ffffff&center=true&vCenter=true&width=650&lines=Deep+Learning;Natural+Language+Processing;Transformers+%26+Attention;AI+%26+Data+Science;Full-Stack+Development;System+Design;Creative+Coding;Building+Something+New..." alt="Currently Learning"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2200&pause=700&color=00BFFF&center=true&vCenter=true&width=650&lines=Deep+Learning;Natural+Language+Processing;Transformers+%26+Attention;AI+%26+Data+Science;Full-Stack+Development;System+Design;Creative+Coding;Building+Something+New..." alt="Currently Learning"/>
 </p>
 
 <p align="center">
