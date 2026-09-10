@@ -1,3 +1,5 @@
+<p align="center"> <img src="./assets/ascii-cyber-portal.gif" width="100%"> </p>
+
 # 👨‍💻 About Me
 
 I'm **Aswin P M**, an Integrated MSc Computer Science student specializing in **AI & Data Science at DCS-CUSAT**. I enjoy building software, experimenting with AI and data, developing web applications, and exploring the creative side of technology.
